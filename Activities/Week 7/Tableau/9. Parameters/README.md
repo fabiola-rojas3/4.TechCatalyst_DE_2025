@@ -6,21 +6,19 @@
 
 **Create a Dynamic Top N Charts as Shown**
 
-![image-20240730133831618](images/image-20240730133831618.png)
+![image-20250814153924552](images/image-20250814153924552.png)
 
 **Create a Dynamic Column Selection as Shown**
 
-![image-20240730134304815](images/image-20240730134304815.png)
+![image-20250814153910677](images/image-20250814153910677.png)
 
 **Create a Dynamic Date Filter base on Order Date with 30-day Increment**
 
-![image-20240730135023727](images/image-20240730135023727.png)
+![image-20250814154652486](images/image-20250814154652486.png)
 
 **Create the following LOB Report**
 
-Make sure the view is full screen
-
-![image-20240730171215196](images/image-20240730171215196.png)
+![image-20250814160046655](images/image-20250814160046655.png)
 
 **Create a Products Hierarchy and a Geography Hierarchy**
 
@@ -30,5 +28,5 @@ Make sure the view is full screen
 
 Show Profit by State 
 
-![image-20240730141824486](images/image-20240730141824486.png)
+![image-20250814160357314](images/image-20250814160357314.png)
 
